@@ -8,6 +8,6 @@
 <title>Hello page</title>
 </head>
 <body>
-	<h1>Spring MVC works</h1>
+	<h1>spring is actually not fun at all, but is instead a giant pain in the butt</h1>
 </body>
 </html>
